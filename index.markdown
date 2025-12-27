@@ -1,5 +1,7 @@
 ---
 layout: home
 ---
-<img title="RooBot" alt="RooBot" src="/assets/images/roobot-image.png"/><br/>
-Coming soon.
+<p align="center">
+  <img title="RooBot" alt="RooBot" src="/assets/images/roobot-image.png" style="width: 50%" /><br/>
+  <b>Coming soon</b>
+</p>
